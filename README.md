@@ -1,6 +1,6 @@
 ![logo](https://github.com/GabrieLima-dev/E-PARK-MOBILE/assets/81888850/9de8d3f9-b4fb-45fb-85e9-e11e5d79b5ae)
 
-<h1 align="center">Nome do Projeto</h1>
+<h1 align="center">E-Park Mobile</h1>
 
 <h1 align="center">
     <a href="https://pt-br.reactjs.org/">🔗 React</a>
@@ -27,9 +27,6 @@
 - [x] Cadastro de cliente
 - [X] Cadastro de produtos
 
-<h1 align="center">
-  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/banner.png" />
-</h1>
 
 ### Pré-requisitos
 
@@ -41,21 +38,18 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 
 ```bash
 # Clone este repositório
-$ git clone <https://github.com/tgmarinho/nlw1>
+$ git clone <https://github.com/GabrieLima-dev/E-PARK-MOBILE.git>
 
 # Acesse a pasta do projeto no terminal/cmd
-$ cd nlw1
-
-# Vá para a pasta server
-$ cd server
+$ cd E-PARK-MOBILE
 
 # Instale as dependências
 $ npm install
 
-# Execute a aplicação em modo de desenvolvimento
-$ npm run dev:server
+# Execute a aplicação
+$ npm run
 
-# O servidor inciará na porta:3333 - acesse <http://localhost:3333>
+# Escanei o QR Code em seu celular com o app expo
 ```
 
 ### 🛠 Tecnologias
