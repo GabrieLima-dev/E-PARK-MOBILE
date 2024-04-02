@@ -68,6 +68,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/GabrieLima-dev"><img style="border-radius: 50%;" src="https://avatars2.githubusercontent.com/u/2254731?s=400&u=0ba16a79456c2f250e7579cb388fa18c5c2d7d65&v=4" width="100px;" alt=""/><br /><sub><b>Gabriel Lima</b></sub></a><br /><a href="https://github.com/GabrieLima-dev" title="">👨‍🚀</a></td>
+    <td align="center"><a href="https://github.com/GabrieLima-dev"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/81888850?s=400&u=4ba1ac8cb10be9d353d1620365817b0ce16d1748&v=4" width="100px;" alt=""/><br /><sub><b>Gabriel Lima</b></sub></a><br /><a href="https://github.com/GabrieLima-dev" title="">👨‍🚀</a></td>
+	<td align="center"><a href="https://github.com/Kabula21"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/142799982?v=4" width="100px;" alt=""/><br /><sub><b>Anderson Fernandes</b></sub></a><br /><a href="https://github.com/Kabula21" title="">👨‍🚀</a></td>
   </tr>
 </table>
